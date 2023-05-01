@@ -1,0 +1,10 @@
+Started by user unknown or anonymous
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/python_bash_job
+[python_bash_job] $ python /tmp/jenkins9583978231630624621.py
+  File "/tmp/jenkins9583978231630624621.py", line 5
+    os.system(`sudo apt-get install default-jre`)
+                      ^
+SyntaxError: invalid syntax
+Build step 'Execute Python script' marked build as failure
+Finished: FAILURE

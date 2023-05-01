@@ -1,0 +1,33 @@
+Started by user unknown or anonymous
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/python_bash_job
+[python_bash_job] $ python /tmp/jenkins15543491147482555319.py
+Desktop
+Documents
+Downloads
+examples.desktop
+folder_new
+Music
+paramiko
+Pictures
+Public
+resources
+Templates
+Videos
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+default-jre is already the newest version (2:1.11-68ubuntu1~18.04.1).
+The following packages were automatically installed and are no longer required:
+  efibootmgr gir1.2-goa-1.0 gir1.2-snapd-1 libfwup1 libllvm9
+  linux-headers-5.3.0-28 linux-headers-5.3.0-28-generic
+  linux-image-5.3.0-28-generic linux-modules-5.3.0-28-generic
+  linux-modules-extra-5.3.0-28-generic
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 9 not upgraded.
+sh: 1: cannot create /home/lenny/resources.txt: Permission denied
+sh: 1: 2.9G: not found
+Finished: SUCCESS

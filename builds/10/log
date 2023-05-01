@@ -1,0 +1,25 @@
+Started by user unknown or anonymous
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/python_bash_job
+[python_bash_job] $ python /tmp/jenkins16294083104031812763.py
+Desktop
+Documents
+Downloads
+examples.desktop
+folder_new
+Music
+paramiko
+Pictures
+Public
+Templates
+Videos
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+E: Unable to locate package java
+sh: 1: cannot create /home/lenny/folder_new/resources.txt: Permission denied
+sh: 1: 2.9G: not found
+Finished: SUCCESS

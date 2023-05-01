@@ -1,0 +1,10 @@
+Started by user unknown or anonymous
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/python_bash_job
+[python_bash_job] $ python /tmp/jenkins12567200966845887461.py
+  File "/tmp/jenkins12567200966845887461.py", line 7
+    cd home/lenny
+          ^
+SyntaxError: invalid syntax
+Build step 'Execute Python script' marked build as failure
+Finished: FAILURE
